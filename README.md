@@ -8,3 +8,5 @@ OrganMidiController is the code that normally runs on the Arduino Leonardo. It h
 
 Here's an image of one of the breadboards. Each of 4 scans its own thing. 2 are for the keyboards, one is for the foot pedals, and one is for the stops.
 ![OrganScannerBoard_bb](https://user-images.githubusercontent.com/9698126/154719326-144a1ad8-c126-46bb-a175-4c7c5d882055.jpg)
+
+The photo gallery for this project is here: https://photos.app.goo.gl/jgLDZipum2vZR5K16
